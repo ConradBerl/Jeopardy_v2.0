@@ -1,0 +1,68 @@
+6
+5
+Fairy Tales
+Canadian TV Shows
+Canadian Trivia
+Caribean Trivia
+Literature
+Newspapers of the World 
+200:She ate a poisoned apple.
+Who is Snow White?
+400:Eaten by Goldilocks in the story of The Three Bears.
+What is porridge?
+600:He played the Apprentice in Disney's version of The Sorcerer's Apprentice.
+Who is Mickey Mouse?
+800:She was bringing a basket of food to her sickly grandmother.
+Who is Little Red Riding Hood?
+1000:He wrote The Little Mermaid and The Little Match Girl.
+Who is Hans Christian Andersen
+200: Sitcom situated in rural Saskatchewan.
+What is Corner Gas?
+400:Children's show featuring the puppets Casey and Finnegan.
+What is Mr. Dressup?
+600:Show about a log salvager on BC coastline that ran for 18 years.
+What is The Beachcombers?
+800:Reality show featuring venture capitalist Kevin O'Leary.
+What are Dragon's Den?
+1000:Quebec sitcom featuring the comedy duo Ding et Dong.
+What is La Petite Vie?
+200:The only officially bilingual province in Canada.
+What is New Brunswick?
+400:He scored 2,857 points in his 20 year career in the NHL.
+Who is Wayne Gretzky?
+600:The three oceans which border Canada.
+What are the Atlantic, Pacific and Arctic?
+800:City that hosted the 1988 Winter Olympics.
+What is Calgary?
+1000:Canada derives from the Iroquois word Kanata, meaning this.
+What is a village?
+200:Large gulf to west of the Caribbean Sea.
+What is the Gulf of Mexico?
+400:This country shares an island with the Dominican Republic.
+What is Haiti?
+600:Bonaire's Marine Park caters to tourist who want to engage in this activity.
+What is scuba diving?
+800:This rum was named after a pirate who eventually was made Governor of Jamaica
+What is Captain Morgan?
+1000: Common name for the region of islands in the Caribbean Sea.
+What is the West Indies?
+200:A Christmas Carol and Oliver Twist.
+Who is Charles Dickens?
+400:Dracula.
+Who is Bram Stoker?
+600:Much Ado about Nothing.
+Who is William Shakespeare?
+800:Around the World in 80 Days and 20,000 Leagues under the Sea
+Who is Jules Verne?
+1000:War and Peace.
+Wo is Leo Tolstoy?
+200:country of Le Devoir.
+What is Canada?
+400:Le Figaro
+What is France?
+600:Daily Mirror
+What is Britain (United Kingdom)?
+800:Stern
+What is Germany?
+1000:Bombay Samachar
+What is India?

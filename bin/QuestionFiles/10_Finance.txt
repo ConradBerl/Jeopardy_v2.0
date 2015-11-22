@@ -1,0 +1,68 @@
+6
+5
+Debt
+Finance
+International Standards
+Materials
+Parks Canada
+Cameras
+200:The government can borrow money directly from the public through the issuance of these.
+What are government bonds
+400:A form of debt re-financing that entails taking out one loan to pay off many others.
+What is debt consolidation
+600:Canada's national debt is about _____.
+What is 1 Trillion dollars
+800:The main factors of personal Canadian debt are related to income and the cost of these _____.
+What are houses
+1000:The country with the highest debt rate in the world, at 31% of all global national debt.
+What is the US
+200:The value of a country's currency in relation to another is know as this.
+What is the exchange rate
+400:In Canada, there are more people employed by these than are in the army.
+What are banks
+600:An international financial institution that primarily provides loans to developing countries, HQ in Washington.
+What is the World Bank 
+800:An institution that maintains a system of payments and receipts between nations, HQ in Washington.
+What is the International Monetary fund (IMF)
+1000:Canada's only Asiatic free-trade partner.
+What is South Korea
+200:The basic unit of length.
+What is the meter
+400:The basic unit of mass.
+What is the kilogram 
+600:The basic unit of temperature (thermodynamic).
+What is the kelvin
+800:The amount of a substance.
+What is the mol
+1000:The measurement for luminous intensity.
+What is a the candela
+200:the most common clothing material.
+What is cotton
+400:Used to surface roads, roofs, and more.
+What is asphalt
+600:Mixed with water, it forms mortar. Add sand and gravel for more a durable product.
+What is cement
+800:A synthetic material made from a wide range of organic polymers, similar to the methods for synthetic rubber.
+What is plastic
+1000:An alloy of iron and carbon, with added chromium for it's special property.
+What is stainless steel
+200:Canada's National Parks cover roughly ___% of the country.
+What is 3
+400:In Atlantic Canada, 65% of these have been drained or filled.
+What are marshes
+600:A major impact on water ecology is caused by this air pollutant, which raises the pH.
+What is acid rain
+800:Parks Canada is responsible for National Parks, Marine Conservation Areas, as well as these.
+What are National Historic Sites
+1000:The Parks Canada Guarantee includes value, quality service, and these.
+What are "fair prices"
+200:The first photographic film was produced for this camera brand.
+What is Kodak
+400:Interchangeable or fixed, this camera part is where the light first enters through.
+What is the Lens
+600:The "pupil" of a camera, which determines the amount of light.
+What is the aperature
+800:DSLR technology refers to a 'single-lens' type of camera, which means the image capture is exactly the same as seen through this.
+What is the View Finder
+1000:Genre of photography that simulates miniature scenes through selective focusing.
+What is tilt-shift

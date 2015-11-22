@@ -1,0 +1,68 @@
+6
+5
+Computer Basics
+Health
+World Languages
+Ships
+Montreal
+Power
+200:A numerical notation that has base 2, rather than base 10.
+What is binary
+400:The word for any device attached to and used with a PC.
+What is a peripheral device
+600:Typically the first sentence of displayed when first learning a programming language.
+What is "Hello World!"
+800:The most important software on any computer.
+What is the Operating System (OS)
+1000:The backcronym of ROM, as in CD-ROM.
+What is Read-Only Memory
+200:1 in 5 Canadian adults is _____ based on weight and height.
+What is obese
+400:A sedentary person averages 1,000 to 3,000 of these a day.
+What are steps
+600:The leading cause of death in Canada, at 29.9%.
+What is cancer
+800:The province with the highest life expectancy.
+What is British Columbia
+1000:The sport with the highest risk of injury.
+What is an football
+200:the second most popular language of the world.
+What is Spanish
+400:The official language of Brazil.
+What is Portuguese
+600:The official language of Ghana and Zimbabwe.
+What is English
+800:The most common language of India.
+What is Hindi
+1000:The 2nd official language of Pakistan, besides English.
+What is a Urdu?
+200:The "right" side of a ship.
+What is Starboard
+400:The "front" section of a ship.
+What is the Bow
+600:The biggest ships in the world are of this type (or 'role').
+What are oil tankers
+800:The busiest shipping lane in the world.
+What is the Strait of Dover
+1000:The only operational Canadian cruise line.
+What is Polar Star Expeditions
+200:The first European explorer to set foot on the island.
+Who is Jacques Cartier
+400:Mont Royal Park shares the designer of this New York park.
+What is Central Park?
+600:The city flag has 5 symbols. 4 are cultural, 1 is ______.
+What religious/Christian (the cross)
+800:The city has more than 350km of this.
+What are bike paths
+1000:The 56 bells of St. Joseph's Oratory were originally destined for this European landmark. 
+What is the Eiffel Tower
+200:In physics, "power" is the rate of doing this.
+What is work
+400:There are two forms of Mechanical Energy: Kinetic, and ______.
+What is Potential
+600:The old Imperial system of measuring power was the ______.
+What is Horsepower
+800:The International System defines this as the basic unit of power
+What is the Watt [or 1 joule(energy)/second(time)]
+1000:E=mc^2 is Einstein's explanation that Energy is, in fact, the same thing as this.
+What is mass

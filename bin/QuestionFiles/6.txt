@@ -1,0 +1,68 @@
+6
+5
+Back to School
+Math
+Languages
+Music
+History
+Chemistry 
+200:This university's list of famous alumni includes William Shatner, Leonard Cohen, and Justin Trudeau.
+What is McGill University?
+400:The USA's oldest institution of higher learning, located in Cambridge, Massachusetts.
+What is Harvard University?
+600:Another name for The University of Paris.
+What is la Sorbonne?
+800:The University of Padua was founded in 1222 in this country.
+What is Italy?
+1000:The oldest university in the English-speaking world.
+What is Oxford University?
+200:The square root of 144.
+What is 12?
+400:25% of the number of weeks in a year.
+What is 13?
+600:Your change after you pay with a 20 dollar bill for 8 cans of pop at $0.75 each.
+What is 14 dollars?
+800:These are 2, 3, 5, 7, 11, 13, 17, 19, 23, 29...etc.
+What are prime numbers?
+1000:Solution for X when: X + 30 = Y and X is 1/3 of Y.
+What is 15?
+200:The most widely spoken language in China.
+What is Mandarin?
+400:Uva is the Spanish word for this.
+What is grape?
+600:The most widely spoken language in India.
+What is Hindi?
+800:The common language spoken in Amsterdam.
+What is Dutch?
+1000:The word in England for a car's trunk.
+What is a boot?
+200:The lowest of the standard four voice ranges.
+What is bass?
+400:When a musical piece is played very quickly.
+What is presto?
+600:This composer died in Vienna in 1827 almost totally deaf.
+Who was Ludwig van Beethoven?
+800:Irving Berlin composed the song "There's no business like __________  __________.
+What is show business?
+1000: Name of the award presented by the Canadian Academy of Recording Arts and Sciences.
+What is a Juno?
+200:Board games were popular in this ancient civilization along the Upper Nile.
+Who are the Egyptians?
+400:Terni Lapilli, an early variant of Tic-tac-toe, was played in this Empire in the first century BC.
+What is the Roman Empire?
+600:Four-suited decks with court cards which evolved in the Moslem world and were imported by Europeans before 1370.
+What are playing cards?
+800:Chess pieces in India were traditional made using this material.
+What is Ivory?
+1000:Wild Bill Hickok was shot dead in 1876 while doing this.
+What is playing poker?
+200:Unlike most liquids, this expands after it freezes.
+What is water?
+400:Approximately 20% of the oxygen in the atmosphere was produced by this rainforest
+What is the Amazon Rainforest?
+600:The liquid and solid forms of oxygen are this color.
+What is blue?
+800:The average human body contains about 1/2 lbs of this...no wonder we thirst!
+What is salt?
+1000:This the hardest chemical in your body...but it can still get chipped!
+Who is tooth enamel?
