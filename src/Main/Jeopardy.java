@@ -429,7 +429,7 @@ public class Jeopardy extends JFrame implements ActionListener{
 	public static void main (String args[]){
 		
 		
-		database = Database.readQuestions("src/QuestionFiles/9_Computing.txt");
+		database = Database.readQuestions("src/QuestionFiles/10_Finance.txt");
 		f = new Jeopardy("Jeopardy - Conrad Edition");
 		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
