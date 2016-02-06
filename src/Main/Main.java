@@ -3,6 +3,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
+import java.io.File;
 
 import javax.swing.border.EmptyBorder;
 import javax.swing.*;
@@ -17,7 +18,10 @@ import GUI.JeopardyButton;
 public class Main extends JFrame implements ActionListener{
 	
 	private static final long serialVersionUID = 1L;
-
+	
+	//initial file displayed (the game file) at launch
+	final static String initialFile = ("src/QuestionFiles/20.txt");
+	
 	final Font defaultFont = new Font("Helvetica", Font.BOLD, 18);
 	
 	//declare static database, so it can be used through the application
@@ -427,9 +431,9 @@ public class Main extends JFrame implements ActionListener{
 	
 	
 	public static void main (String args[]){
+
+		database = Database.readQuestions(initialFile);
 		
-		
-		database = Database.readQuestions("src/QuestionFiles/10_Finance.txt");
 		f = new Main("Jeopardy - Conrad Edition");
 		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
