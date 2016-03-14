@@ -1,0 +1,68 @@
+6
+5
+Coffee
+African Export
+Canadian Politics
+True North
+2015 Movies
+Monopoly
+200:Coffee is the second most valuable traded commodity, after this.
+What is Petroleum?
+400:Coffee bean are not really beans, they are this.
+What is a Pit (Fruit Pit)?
+600:Starbucks spends more on this type of employee insurance than on coffee beans.
+What is health insurance?
+800:Coffee improves the flow of this bodily fluid.
+What is blood?
+1000:The US city where most coffee is consumed.
+What is New York?
+200:Egypt.
+What is Crude Oil (Petroleum products)?
+400:Sudan.
+What is Gold?
+600:Ethiopia.
+What is Coffee?
+800:Zambia.
+What is Copper?
+1000:Niger.
+What is Uranium?
+200: Canada is a constitutional ____.
+What is Monarchy?
+400:Political convention and precedents were derived from this founding Parliament. 
+What is Westminster (UK parliament)?
+600:Canada Day was formerly known as this day.
+What ius Dominion Day?
+800:All provinces and territories use English Common Law, except for Quebec, which uses this.
+What is Civil Law?
+1000:The Crown is divided into 11 legal jurisdictions, that fall into these 2 categories. 
+What is (1) Federal and (10) Provincial?
+200:Mexico.
+What is the United States?
+400:Mongolia.
+What is Russia?
+600:North Korea.
+What is China?
+800:Uzbekistan.
+What is Kazakhstan?
+1000:Lithuania.
+What is Latvia?
+200:Thirty years after the defeat of the Galactic Empire, the galaxy faces a new threat from the First Order.
+What is Star Wars: The Force Awakens?
+400:Years after the collapse of civilization, Joe enslaves apocalypse survivors inside a desert fortress.
+What is Mad Max: Fury Road?
+600:When astronauts blast off from the planet Mars, they leave behind Matt Damon.
+What is The Martian?
+800:Located off the coast of Costa Rica, this luxury resort provides a habitat for genetically engineered dinosaurs.
+What is Jurrasic World?
+1000:During the Cold War, the Soviet Union captures a U.S. pilot after shooting down his U-2 spy plane.
+What is Bridge of Spies?
+200:The game was originially based on this city, in New Jersey.
+What is Atlantic City?
+400:In 1935, this US company acquired the rights for the game.
+What is Parker Brothers?
+600:There are 40 spaces on the game board, 28 of which are these.
+What are properties (or deeds)?
+800:There are this many ways to get out of jail. 
+What is 3 (pay 50$, use a card, roll doubles)?
+1000:The original game sold for this amount in USD.
+What is 2?

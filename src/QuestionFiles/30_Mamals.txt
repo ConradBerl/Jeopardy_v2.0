@@ -1,0 +1,68 @@
+6
+5
+Whales
+Painters
+Tech Trends
+Prima Donnas
+Artificial Intelligence
+Poets
+200:The heaviest animal to have ever existed, now nearing extinction.
+What is the Blue Whale?
+400:The largest toothed whale, whose head contains a liquid wax from which it derives its name.
+What is the Sperm Whale?
+600:Largest member of the oceanic dolphin family, whose individual populations have specialized diets.
+What is the Orca Whale (Killer or Black Fish)?
+800:Artic whale whose protutrding canine tooth produces a "tusk"?
+What is a Narwhal
+1000:Distinctive baleen whale of the rorqual family, with elongated pectoral fins and knobly growth covering it's jaw.
+What is the Humpback Whale?
+200:This Parisian museum features works of art by numerous famous artists.
+What is the Louvre?
+400:He is know as the tortured genius who cut off his own ear.
+Who is Vincent van Gogh?
+600:This painting by Claude Monet was featured in the film Titanic.
+What is Water Lillies (Nympheas)?
+800:He is known for co-founding the cubist movement of the 20th century.
+Who is Pablo Picasso?
+1000:He was a leading painter in the development of the impressionist style.
+Who is Pierre-Auguste Renoir?
+200: HD 1080p is only 1920x1080 resolution. This is 3840x2160 resolution.
+What is 4K?
+400:The IoT is a whole new dimension of internet, specifically for this. 
+What are Things?
+600:These machines can learn from context, or themselves, and act accordingly.
+What are Smart Machines?
+800:Centrally stored data on remote servers, deliverable almost everywhere.
+What is Cloud Computing?
+1000:With the decrese in processor power, computers will begin to ditch this piece of heat deflecting hardware.
+What is the fan?
+200:She won an academy award for her role in Funny Girl.
+Who is Barbra Streisand?
+400:She is the first African American female dancer with the America Ballet Theatre.
+Who is Misty Copeland?
+600:This Soprano appeared in the film Princess Diaries 2.
+Who is Anna Netrebko?
+800:She is the prema-donna character in Gaston Leroux's le Fantome de l'Opera.
+Who is La Carlotta?
+1000:She won the Metropolitan Opera Auditions at age 29.
+Who is Renee Fleming?
+200:Default A.I. voices are typically this gender.
+What is female?
+400:The name fo test that would determine if a computer can pass iteself as human, named after a computing genius.
+What is the Turing Test?
+600:The Jeopardy computer player that won the all-time championship.
+Who (or what) is Watson?
+800:The first intellectual game where a computer proved superior to humans was this game.
+What is Chess?
+1000:A (hypothetical) type of A.I. that could successfully perform any intellectual task that a human being could.
+What is General A.I.?
+200:Candian Leftenant-Colonel John McCrae wore this poem in 1915.
+What is In Flanders Fields?
+400:This form of spoken or chanted rhyming lyrics is performed in time to a beat.
+What is rap?
+600:This poet is the author of The Taming of the Shrew.
+Who is Willima Shakespeare?
+800:A poem expressive of a complete thought or sentiment of 14 lines. 
+What is a Sonnet?
+1000:This English writer is known for his intentional misspellings and contreversion subject matter.
+Who is E.E.Cummuings (Edward Estlin)?
