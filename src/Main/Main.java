@@ -3,15 +3,12 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
-import java.io.File;
-
 import javax.swing.border.EmptyBorder;
 import javax.swing.*;
 
 import Database.Database;
 import Database.Player;
-import GUI.JButtonLoad;
-import GUI.JeopardyButton;
+import GUI.*;
 
 //specialized JFrame
 //controller of this application
@@ -41,10 +38,10 @@ public class Main extends JFrame implements ActionListener{
 	JLabel question = new JLabel();
 	
 	//array of players
-	Player[] pArray = new Player[3];
+	public static Player[] pArray = new Player[3];
 	
 	//array of labels for name AND score
-	JLabel[] labelArrayName = new JLabel[(pArray.length)];
+	public static JLabel[] labelArrayName = new JLabel[(pArray.length)];
 	JLabel[] labelArrayScore = new JLabel[(pArray.length)];
 	JButton[] buttonAdd = new JButton[pArray.length];
 	JButton[] buttonSubtract = new JButton[pArray.length];
@@ -53,8 +50,13 @@ public class Main extends JFrame implements ActionListener{
 	//have some features available in the menu bar
 	JMenuBar menuBar = new JMenuBar();
 	JMenu menu = new JMenu("File");
-	JMenuItem menuItem = new JMenuItem("Load", KeyEvent.VK_N);
+	
+	//the LOAD menu item
+	JMenuItem menuItemLoad = new JMenuItem("Load", KeyEvent.VK_N);
 	JButtonLoad load = new JButtonLoad(null);
+	//the PLAYER menu item, to change player names
+	JMenuItem menuItemPlayer = new JMenuItem("Change Player Names", KeyEvent.VK_N);
+
 	
 	//declare variables for actions performed
 	int catGet;
@@ -81,9 +83,12 @@ public class Main extends JFrame implements ActionListener{
 		menu.setMnemonic(KeyEvent.VK_F);
 		menuBar.add(menu);
 		
-		//the MenuItem
-		menuItem.addActionListener(this);
-		menu.add(menuItem);
+		//the Menu items
+		menuItemLoad.addActionListener(this);
+		menu.add(menuItemLoad);
+		
+		menuItemPlayer.addActionListener(this);
+		menu.add(menuItemPlayer);
 		
 		//adding the menu bar to the fame
 		setJMenuBar(menuBar);
@@ -275,6 +280,13 @@ public class Main extends JFrame implements ActionListener{
 		return que;
 	}
 	
+	//DAILY DOUBLE
+	int min = 0;
+	int max = (database.getNumCategories() * database.getNumQuestions());
+	int range = (max-min)+1;
+	int dailyDoubleSpot = (int)(Math.random() * range) + min;
+	
+	
 	
 	//=========================================
 	//Player Statistics
@@ -335,7 +347,7 @@ public class Main extends JFrame implements ActionListener{
 		/*
 		 * Loading a different game
 		 */
-		if (e.getSource() == menuItem){
+		if (e.getSource() == menuItemLoad){
 			//open a dialog box asking for the file the player wants to load (i.e. the database text file)
 		    String newQuestionFile = load.fileChooser();
 		    
@@ -363,6 +375,16 @@ public class Main extends JFrame implements ActionListener{
 		
 		
 		/*
+		 * Player Naming
+		 */
+		if (e.getSource() == menuItemPlayer){
+			//open a dialog box asking for player names
+			System.out.println("playerNames clicked");
+			PlayerNames.PNames();
+		}
+		
+		
+		/*
 		 * Questions selections
 		 */
 		for (int p = 0; p < (database.getNumCategories() * database.getNumQuestions()); p++){
@@ -373,21 +395,30 @@ public class Main extends JFrame implements ActionListener{
 				currentPointValue = Integer.parseInt(buttonArray[p].getText());
 				
 				//remove text label
-				buttonArray[p].setText("-");
+				buttonArray[p].setForeground(Color.BLUE);
 				
 				//disclose that a question has indeed been selected
 				questionSelected = true;
+				
 				//indicate WHICH question was selected, and keep information of latest selection
 				catGet = buttonArray[p].getCategory();
 				queGet = buttonArray[p].getQuestion();
 				
 				//revel the answer, to which the player  must guess the question
 				String answerDisplay = database.getQuestion(catGet, queGet).getResponse();
-				String questionDisplay = database.getQuestion(catGet, queGet).getQuestion();
-
+				String questionDisplay = database.getQuestion(catGet, queGet).getQuestion();	
 				
 				//create a new full-screen frame showing the questions
 				buttonArray[p].selectedQuestionDisplay(answerDisplay, questionDisplay);
+				
+
+//				System.out.println("Daily double is at spot" + dailyDoubleSpot);
+//				//daily double check
+//				if (p == dailyDoubleSpot){
+//				    JFrame ddFrame = new JFrame("Player Names");
+//				    ddFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+//				    JOptionPane.showMessageDialog(ddFrame, "DailyDouble!");
+//				}
 			}
 		}
 			

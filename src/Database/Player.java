@@ -22,6 +22,10 @@ public class Player {
 		return String.valueOf(score);
 	}
 	
+	public void setName(String name){
+		this.name = name;
+	}
+	
 	public void addPoints(int points){
 		score = score + points;
 		return;
