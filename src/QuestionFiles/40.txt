@@ -1,0 +1,68 @@
+6
+5
+WWI Allies
+Roman Days
+Before Rocks
+Sherlock
+Canadian Brewed
+Libya
+200:The empire administered by the United Kingdom.
+Who are the British?
+400:The 3rd Republic.
+Who are the French?
+600:This empire suffered a revolution in 1917, but prior it included included the likes of Finland.
+Who are the Russians?
+800:This asian empire sent ships to the mediterranea to counter german u-boats.
+Who are the Japanese?
+1000:This kingdom was largely divided in its intentions, but in 1915 its " Generalissimo's " took the fight to Slovenia.  .
+Who are the Italians?
+200:Helios(Sun).
+What is Sunday?
+400:Zeus(Jupiter).
+What is Thursday?
+600:Aphrodite(Venus).
+What is Friday?
+800:Hermes(Mercury).
+What is Wednesday?
+1000:Ares(Mars).
+What Tuesday?
+200:Dead vegetation built up in layers forms peat, which next forms this organic rock.
+What is Coal?
+400:This molten substance can surface as lava, or cool & harden into igneous rock.
+What is Magma?
+600:Formed when limestone is pushed down into the earth and subject to intense heat. Has crystals.
+What is Marble?
+800:Sandstone is made of sand, which is made up mostly of this mineral.
+What is Quartz/Silica?
+1000:A type of rock made of pebbles cemented together, or a corporation with divisions in several industries.
+What is a conglomerate?
+200:Holems' primary residence was an appartment on this street.
+What is Baker Street?
+400:Most of his tales carry the title "The _____ of ...".
+What is Adventure?
+600:Almost every story is 'written' by Dr. Watson, first name is this.
+What is John?
+800:Lestrade, the re-occuring inspector, belongs to this police force.
+What is Scotland Yard?
+1000:When absolutely stuck, Sherlock turns to this man, whose skills exceed his own.
+What is Mycroft/his Brother?
+200:The oldest independent Canadian brewery, in Saint John, New Brunswick.
+What is Moosehead?
+400:Now Belgian owned, it was founded by a Scott in 1820, in Halifax, Nova Scotia.
+What is Alexander Keiths?
+600:Employing some 3000 canadians, it merged with US' Coors in 2005.
+What is Molson?
+800:It barely survived the prohibition era by selling temperance (under 2%) beer, and is now an international franchise..
+What is Labatt?
+1000:One of Canada's top brewries, founded in 2002 in Toronto, and sold in 2015. Locations include Ottawa's old Mill.
+What is Mill Street?
+200:Libya's history & economy were forever changed when this was found there in 1959.
+What is oil?
+400:The WWII defense of Tobruk against this German general helped save the Middle East for the Allies.
+Who is Rommel?
+600:In 1980 this presidential brother Billy ___ registered as an agent of Libya's government.
+Who is Carter?
+800:Libya's two Eastern border countries.
+What is Egypt nad Sudan?
+1000:If you paid for supper, you would have to use this local currency.
+What is a dinar?
