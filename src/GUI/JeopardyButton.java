@@ -36,7 +36,7 @@ public class JeopardyButton extends JButton {
 	}
 	
 	
-	public void selectedQuestionDisplay(String a, String q){
+	public void selectedQuestionDisplay(String a, final String q){
 		Color background = Color.BLUE;
 		Color foreground = Color.WHITE;
 		
@@ -48,7 +48,7 @@ public class JeopardyButton extends JButton {
 		/*
 		 * Frame
 		 */
-		JFrame frameAnswer = new JFrame();
+		final JFrame frameAnswer = new JFrame();
 		frameAnswer.setExtendedState(JFrame.MAXIMIZED_BOTH);
 		frameAnswer.setLayout(new GridBagLayout());
 
@@ -61,7 +61,7 @@ public class JeopardyButton extends JButton {
 		/*
 		 * Text area
 		 */
-		JTextArea questionLabel = new JTextArea();
+		final JTextArea questionLabel = new JTextArea();
 		questionLabel.setText(a);
 		questionLabel.setFont(new Font("Tohama", Font.PLAIN, 50));
 

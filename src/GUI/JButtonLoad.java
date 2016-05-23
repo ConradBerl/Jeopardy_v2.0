@@ -6,12 +6,10 @@ import javax.swing.JFileChooser;
 
 public class JButtonLoad extends JButton{
 
-	/**
-	 * 
-	 */
+
 	private static final long serialVersionUID = 1L;
 	
-	JFileChooser chooser = new JFileChooser("src/QuestionFiles/");
+	JFileChooser chooser = new JFileChooser();
 
 	
 	
@@ -32,7 +30,7 @@ public class JButtonLoad extends JButton{
 	    if(returnVal == JFileChooser.APPROVE_OPTION) {
 	    	System.out.println("You chose to open this file: " +
 		            chooser.getSelectedFile().getName());
-		    newGame = chooser.getSelectedFile().getName();
+		    newGame = chooser.getSelectedFile().getAbsolutePath();
 		    
 	    }else if(returnVal == JFileChooser.CANCEL_OPTION){
 	    	 System.out.println("Cancel was selected");

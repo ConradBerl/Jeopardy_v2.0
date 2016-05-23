@@ -5,7 +5,7 @@ import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import javax.swing.JTextField;
 
-import Main.Main;
+import Main.Jeopardy;
 
 public class PlayerNames {
 	
@@ -36,10 +36,10 @@ public class PlayerNames {
 	    JOptionPane.showMessageDialog(frame, array);
 	    //action resulting
 			typedText0 = textField0.getText();
-			Main.labelArrayName[0].setText(typedText0);
+			Jeopardy.labelArrayName[0].setText(typedText0);
 			typedText1 = textField1.getText();
-			Main.labelArrayName[1].setText(typedText1);
+			Jeopardy.labelArrayName[1].setText(typedText1);
 			typedText2 = textField2.getText();
-			Main.labelArrayName[2].setText(typedText2);
+			Jeopardy.labelArrayName[2].setText(typedText2);
 	}
 }
